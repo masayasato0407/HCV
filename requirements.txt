@@ -2,10 +2,11 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 streamlit
-scikit-survival
 scikit-learn==1.2.2
+scikit-survival==0.21.0
 numpy
 pandas
 matplotlib
 
 seaborn
+
